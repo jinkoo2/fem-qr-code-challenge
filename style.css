@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(206, 235, 240);
+    font-family: 'Roboto', sans-serif;    
+}
+
+.card{
+    width: 330px;
+    padding: 10px;
+    margin: 100px auto;
+    text-align: center;
+    background-color: white;
+    border-radius: 3%;
+
+}
+
+.card img{
+    width: 95%;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+
+.card .line1{
+    font-size: 1.5rem;
+    font-weight: 700;
+    padding: 10px 0px;
+    margin: 5px 0;
+}
+
+.card .line2{
+    font-size: 1.2rem;
+    font-weight: 400;
+    padding: 10px;
+    color: gray;
+    margin-bottom: 20px;
+}
+
