@@ -30,6 +30,8 @@ body{
     font-weight: 700;
     padding: 10px 0px;
     margin: 5px 0;
+
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 
 .card .line2{
